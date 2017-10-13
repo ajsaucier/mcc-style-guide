@@ -1,0 +1,1 @@
+Buttons are used for submitting forms and triggering popup windows. Buttons should **not** be used for linking to pages or files. This could cause confusion if the user expects something to happen on the current page but instead directs them to another page. Use regular contextual links for linking to pages and files.
